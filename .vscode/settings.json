@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        ".cfg": "klipper-config"
+    },
+    "editor.rulers": [120]
+}
