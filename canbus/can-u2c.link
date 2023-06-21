@@ -1,0 +1,5 @@
+[Match]
+Name=can-u2c*
+
+[Link]
+TransmitQueueLength=1024
