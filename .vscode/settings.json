@@ -2,5 +2,5 @@
     "files.associations": {
         ".cfg": "klipper-config"
     },
-    "editor.rulers": [120]
+    "editor.rulers": [80,120]
 }
