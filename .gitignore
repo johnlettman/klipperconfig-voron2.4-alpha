@@ -1,0 +1,5 @@
+# Backup files
+.*.bkp
+
+# Klipper configuration backups
+printer-*_*.cfg
